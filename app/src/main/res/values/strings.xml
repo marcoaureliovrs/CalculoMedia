@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculo de Media</string>
+    <string name="lbl_Marlon">Marlon Ribeiro</string>
+    <string name="lbl_nome">Nome</string>
+    <string name="lbl_nota1">Nota 1</string>
+    <string name="lbl_nota2">Nota 2</string>
+    <string name="lbl_calcular">Calcular</string>
+</resources>
